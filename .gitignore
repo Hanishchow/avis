@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Audio data (large, regeneratable)
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.npy
+
+# Temp files
+_seg_*.wav
+_test_seg.wav
+_mlp_temp.wav
+tmp/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Swarm internal tracking
+.swarm/
+.opencode/
+
+# Unrelated projects
+New folder/
+cellure-ai/
+
+# Real dataset audio (large)
+real_dataset/audio/
+real_dataset/segments/
+real_dataset/spectrograms/
+!real_dataset/train.json
+!real_dataset/val.json
+!real_dataset/test.json
+!real_dataset/mlp_training_data.csv
+
+# SQLite DBs
+*.db
+
+# Temp downloads
+*.part
+*.tmp
+
+# OS
+Thumbs.db
+.DS_Store

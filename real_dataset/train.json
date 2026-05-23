@@ -1,0 +1,3217 @@
+[
+  {
+    "spec": "real_dataset/spectrograms\\noise_40717.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_30025.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_77789.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_17472.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_71708.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_67241.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_92619.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_78800.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_04317.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_31041.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_91252.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_56556.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_06453.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_72350.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_81639.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_80543.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_72411.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_20496.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_87211.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_75451.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_35156.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_51886.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_70897.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_92302.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_30433.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_64505.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_89320.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_92432.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_86776.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_67735.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_03855.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_35796.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_43901.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_76027.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_22842.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_36833.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_87437.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_29700.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_18232.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_69195.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_88496.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_92357.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_17289.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_04981.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_74512.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_58930.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_40161.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_09856.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_68584.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_69792.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_76901.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_36758.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_83557.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_83647.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_99626.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_84547.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_60330.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_38206.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_69488.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_92041.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_28952.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_38196.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_30351.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_50161.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_02317.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_51704.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_10485.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_10623.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_96751.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_11813.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_21976.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_86300.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_08889.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_31570.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_64866.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_61515.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_42322.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_87487.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_18311.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_64774.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_04471.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_39922.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_12473.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_71144.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_76177.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_63938.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_14669.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_32453.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_47166.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_27644.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_34193.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_42458.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_20441.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_02114.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_28054.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_44169.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_47411.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_18701.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_30541.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_84362.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_22210.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_12995.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_99035.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_30504.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_73043.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_09839.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_80738.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_70965.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_86304.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_85842.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_31763.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_56215.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_92949.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_12750.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_85860.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_07596.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_58869.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_86122.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_74257.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_25653.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_92357.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_58923.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_88596.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_67183.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_31652.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_27040.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_82678.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_28513.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_92124.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_97312.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_71782.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_51483.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_30139.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_23478.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_64793.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_36511.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_97483.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_99106.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_67196.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_19767.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_56214.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_34501.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_68072.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_13458.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_56440.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_87261.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_69595.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_77215.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_43370.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_73520.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_47398.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_54514.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_54554.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_85655.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_38799.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_19642.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_09140.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_60681.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_05781.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_69842.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_68199.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_89586.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_76916.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_94046.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_69594.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_57054.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_53080.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_36295.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_64954.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_30096.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_52321.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_19058.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_53944.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_72657.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_97204.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_35205.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_44448.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_89570.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_73521.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_40653.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_71993.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_24339.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_98407.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_66290.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_39970.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_93595.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_46344.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_38352.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_63753.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_32228.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_78910.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_11430.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_31455.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_37348.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_28924.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_96274.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_69660.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_39065.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_56388.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_73765.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_44457.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_73335.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_02816.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_08693.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_58481.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_46666.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_90594.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_54890.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_71703.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_78734.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_96073.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_41927.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_08361.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_30707.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_49812.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_22044.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_37945.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_06325.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_51307.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_23577.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_61960.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_94778.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_09124.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_11451.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_12193.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_97878.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_16848.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_94271.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_68027.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_94912.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_46436.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_27988.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_29714.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_50399.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_64945.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_57837.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_05806.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_45635.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_66734.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_16821.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_75090.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_65210.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_80834.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_50533.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_37809.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_68931.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_59692.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_96755.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_47822.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_13443.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_98531.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_82727.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_77504.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_56691.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_78192.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_14208.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_17287.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_23595.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_23485.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_14177.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_87125.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_87912.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_58072.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_84180.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_78456.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_57434.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_88129.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_63788.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_79979.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_42922.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_16085.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_79543.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_75806.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_24587.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_15637.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_90214.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_66271.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_00367.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_09154.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_80579.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_46519.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_05167.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_57530.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_88152.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_73590.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_13664.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_59648.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_53957.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_40015.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_53935.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_79741.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_69861.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_67396.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_25428.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_87825.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_87669.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_17369.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_79859.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_87041.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_25334.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_64947.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_54388.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_42412.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_22153.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_20239.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_10971.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_41224.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_75444.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_49708.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_73913.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_90073.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_27157.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_86723.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_33263.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_26769.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_13182.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_83159.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_88921.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_69305.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_12462.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_46902.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_54595.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_79666.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_76997.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_42917.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_86688.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_03081.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_38999.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_56517.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_00032.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_19087.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_51708.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_00520.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_59539.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_56739.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_18065.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_69625.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_95824.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_93162.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_08591.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_77596.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_75676.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_82894.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_02925.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_09235.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_52687.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_58792.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_72987.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_90366.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_90434.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_42724.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_66630.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_13024.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_53653.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_93231.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_14752.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_86634.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_33658.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_90269.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_43862.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_24401.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_49438.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_54375.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_58509.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_30948.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_76853.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_38264.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_34211.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_81635.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_12324.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_00890.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_84301.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_29394.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_17456.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_60268.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_43689.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_88609.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_95402.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_51272.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_10758.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_57773.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_17870.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_34671.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_94903.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_49253.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_85053.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_43009.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_06658.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_25339.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_48684.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_27968.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_71390.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_19933.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_36357.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_21298.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_51668.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_06257.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_91350.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_09242.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_03797.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_35836.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_21020.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_88387.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_63164.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_18278.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_36665.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_85858.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_03261.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_17891.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_10493.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_44460.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_84335.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_35235.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_70625.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_56402.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_54395.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_72128.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_35141.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_76271.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_26351.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_21431.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_88475.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_41411.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_74624.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_30001.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_50647.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_88808.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_19042.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_07657.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_56553.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_64179.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_71791.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_36372.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_52694.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_30017.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_93877.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_60418.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_27235.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_27520.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_82771.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_50395.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_15947.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_70560.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_94590.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_39333.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_78909.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_85974.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_79992.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_26334.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_05350.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_54785.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_65798.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_31057.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_16891.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_91974.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_35218.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_01324.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_48404.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_34968.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_82802.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_72514.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_90475.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_90816.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_04281.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_83477.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_51787.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_81882.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_99542.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_76480.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_23449.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_39080.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_41907.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_78441.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_89602.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_60739.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_63503.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_57987.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_76164.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_84475.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_80036.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_83779.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_27447.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_47695.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_85992.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_11011.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_93990.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_07815.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_44048.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_83517.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_94544.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_43960.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_70985.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_88844.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_59218.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_08876.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_76917.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_73599.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_16888.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_96074.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_01178.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_68683.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_00698.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_27776.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_68339.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_58843.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_30099.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_50544.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_06860.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_32211.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_57578.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_20558.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_50682.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_34403.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_94762.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_92970.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_34115.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_51207.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_42333.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_81803.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_24988.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_74403.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_35190.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_24069.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_62896.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_81983.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_42785.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_78587.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_96339.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_90050.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_60305.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_60494.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_35783.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_63667.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_22891.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_51170.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_92768.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_62746.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_47862.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_62584.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_34446.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_12541.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_99501.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_63675.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_94483.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_72619.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_14527.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_92184.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_17759.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_67892.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_26797.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_69798.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_41017.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_72798.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_28177.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_11008.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_69608.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_71114.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_45198.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_51133.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_19882.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_53915.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_28904.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_80021.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_37800.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_56770.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_47343.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_37465.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_90608.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_59129.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_98598.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_42692.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_53338.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_88593.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_22887.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_60440.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_64745.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_42087.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_91654.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_52662.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_47110.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_26403.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_22446.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_37651.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_36374.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_09037.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_71226.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_80435.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_68481.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_88277.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_05516.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_16233.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_41902.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_21050.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_07814.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_66327.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_68178.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_19040.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_65982.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_89191.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_35240.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_97587.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_96738.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_53554.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_71969.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_82727.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_21997.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_70694.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_35818.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_67974.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_40538.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_71282.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_52170.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_88487.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_07275.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_35880.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_24164.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_53049.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_13530.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_52344.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_42189.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_42760.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_87676.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_97696.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_13878.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_82317.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_62853.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_96484.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_23882.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_06386.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_76129.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_60314.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_30008.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_78244.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_58377.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_63416.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_42452.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_94821.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_88754.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_22431.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_24711.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_22224.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_90910.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_69951.npy",
+    "label": 0,
+    "species": "noise"
+  }
+]
