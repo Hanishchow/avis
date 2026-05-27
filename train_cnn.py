@@ -4,9 +4,14 @@ import json
 import numpy as np
 from bird_classifier_cnn import build_cnn
 import tensorflow as tf
+from config import (
+    DATASET_DIR, CNN_MODEL_PATH, CNN_EPOCHS, CNN_BATCH_SIZE,
+    CNN_EARLY_STOP_PATIENCE, CNN_LR_FACTOR, CNN_LR_PATIENCE, CNN_MIN_LR,
+    SPEC_H, SPEC_W, CNN_RANDOM_STATE, CNN_TEST_SPLIT,
+)
 
 
-def load_dataset(data_dir="real_dataset"):
+def load_dataset(data_dir=None):
     """Load pre-extracted mel-spectrograms from prepared dataset."""
     specs, labels = [], []
     for split in ["train", "val"]:
@@ -21,12 +26,10 @@ def load_dataset(data_dir="real_dataset"):
             if not spec_path or not os.path.exists(spec_path):
                 continue
             data = np.load(spec_path)
-            # Ensure shape (128, 259)
-            if data.shape != (128, 259):
-                import librosa
-                target = np.zeros((128, 259))
-                h = min(data.shape[0], 128)
-                w = min(data.shape[1], 259)
+            if data.shape != (SPEC_H, SPEC_W):
+                target = np.zeros((SPEC_H, SPEC_W))
+                h = min(data.shape[0], SPEC_H)
+                w = min(data.shape[1], SPEC_W)
                 target[:h, :w] = data[:h, :w]
                 data = target
             specs.append(data)
@@ -36,8 +39,17 @@ def load_dataset(data_dir="real_dataset"):
     return np.array(specs), np.array(labels)
 
 
-def train(data_dir="real_dataset", model_path="bird_sound_classifier.h5",
-          epochs=50, batch_size=8):
+def train(data_dir=None, model_path=None,
+          epochs=None, batch_size=None):
+    if data_dir is None:
+        data_dir = DATASET_DIR
+    if model_path is None:
+        model_path = CNN_MODEL_PATH
+    if epochs is None:
+        epochs = CNN_EPOCHS
+    if batch_size is None:
+        batch_size = CNN_BATCH_SIZE
+
     specs, labels = load_dataset(data_dir)
     if specs is None or len(specs) < 4:
         print("Dataset too small, using synthetic fallback.")
@@ -49,17 +61,17 @@ def train(data_dir="real_dataset", model_path="bird_sound_classifier.h5",
 
     from sklearn.model_selection import train_test_split
     x_train, x_val, y_train, y_val = train_test_split(
-        specs, labels, test_size=0.2, stratify=labels, random_state=42
+        specs, labels, test_size=CNN_TEST_SPLIT, stratify=labels, random_state=CNN_RANDOM_STATE
     )
 
-    model = build_cnn(input_shape=(128, 259))
+    model = build_cnn(input_shape=(SPEC_H, SPEC_W))
     
     callbacks = [
-        tf.keras.callbacks.EarlyStopping(patience=5, restore_best_weights=True,
+        tf.keras.callbacks.EarlyStopping(patience=CNN_EARLY_STOP_PATIENCE, restore_best_weights=True,
                                           monitor="val_accuracy", mode="max"),
         tf.keras.callbacks.ModelCheckpoint(model_path, save_best_only=True,
                                            monitor="val_accuracy", mode="max"),
-        tf.keras.callbacks.ReduceLROnPlateau(factor=0.5, patience=3, min_lr=1e-6),
+        tf.keras.callbacks.ReduceLROnPlateau(factor=CNN_LR_FACTOR, patience=CNN_LR_PATIENCE, min_lr=CNN_MIN_LR),
     ]
 
     model.fit(x_train, y_train, validation_data=(x_val, y_val),
@@ -79,7 +91,7 @@ def train(data_dir="real_dataset", model_path="bird_sound_classifier.h5",
             spec_path = rec.get("spec") or rec.get("path")
             if spec_path and os.path.exists(spec_path):
                 data = np.load(spec_path)
-                if data.shape == (128, 259):
+                if data.shape == (SPEC_H, SPEC_W):
                     x_test.append(data)
                     y_test.append(rec["label"])
         if x_test:
@@ -93,5 +105,5 @@ def train(data_dir="real_dataset", model_path="bird_sound_classifier.h5",
 
 if __name__ == "__main__":
     import sys
-    data_dir = sys.argv[1] if len(sys.argv) > 1 else "real_dataset"
+    data_dir = sys.argv[1] if len(sys.argv) > 1 else None
     train(data_dir=data_dir)

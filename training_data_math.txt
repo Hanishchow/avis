@@ -1,0 +1,23 @@
+The quick brown fox jumps over the lazy dog. To be or not to be, that is the question. All that glitters is not gold. Where there is a will, there is a way. A journey of a thousand miles begins with a single step. We hold these truths to be self-evident, that all men are created equal. It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife. It was the best of times, it was the worst of times. To infinity and beyond. May the Force be with you.
+
+Mathematics is the study of numbers, shapes, and patterns. Addition combines numbers: 2 + 3 = 5. Subtraction finds the difference: 5 - 2 = 3. Multiplication is repeated addition: 3 × 4 = 12. Division splits into equal parts: 12 ÷ 3 = 4.
+
+In algebra, we use letters to represent unknown numbers. For example, in the equation x + 5 = 10, we solve for x by subtracting 5 from both sides: x = 10 - 5 = 5. The quadratic formula solves equations of the form ax² + bx + c = 0: x = (-b ± √(b² - 4ac)) / (2a).
+
+Geometry studies shapes and spaces. The area of a rectangle is length × width. The area of a triangle is (base × height) / 2. The circumference of a circle is 2πr, where π is approximately 3.14159. The Pythagorean theorem states that in a right triangle, a² + b² = c², where c is the hypotenuse.
+
+Calculus deals with change and motion. The derivative measures how a function changes as its input changes. The derivative of f(x) = x² is f'(x) = 2x. The integral calculates the area under a curve. The integral of f(x) = 2x is F(x) = x² + C, where C is the constant of integration.
+
+Prime numbers are numbers greater than 1 that have no positive divisors other than 1 and themselves. The first few prime numbers are 2, 3, 5, 7, 11, 13, 17, 19, 23, and 29. A fraction represents a part of a whole. For example, 3/4 means three out of four equal parts.
+
+Statistics helps us understand data. The mean (average) of a set of numbers is the sum divided by the count. The median is the middle value when numbers are sorted. The mode is the most frequently occurring value.
+
+Mathematical proofs establish truth beyond doubt. A proof by contradiction assumes the opposite of what we want to prove and shows this leads to a contradiction. Mathematical induction proves statements for all natural numbers by showing it's true for n=1 and that if it's true for n=k, then it's true for n=k+1.
+
+The number π (pi) is the ratio of a circle's circumference to its diameter. It is an irrational number, meaning it cannot be expressed as a simple fraction and its decimal representation goes on forever without repeating. π ≈ 3.141592653589793...
+
+In trigonometry, the sine, cosine, and tangent functions relate angles to side lengths in right triangles. For an angle θ in a right triangle: sin(θ) = opposite/hypotenuse, cos(θ) = adjacent/hypotenuse, tan(θ) = opposite/adjacent.
+
+The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, and so on. This sequence appears frequently in nature, art, and mathematics.
+
+Mathematics is not just about calculations; it's a way of thinking logically and solving problems. As the mathematician Henri Poincaré said, "Mathematics is the art of giving the same name to different things."

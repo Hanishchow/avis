@@ -1,692 +1,2657 @@
 [
   {
-    "spec": "real_dataset/spectrograms\\noise_42509.npy",
-    "label": 0,
-    "species": "noise"
+    "spec": "real_dataset/spectrograms\\Common_Myna_38971.npy",
+    "label": 1,
+    "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Corvus_splendens_41544.npy",
+    "spec": "real_dataset/spectrograms\\Common_Myna_57814.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_61683.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_27965.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_31549.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_41388.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_43339.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_97269.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_97996.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_06015.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_97366.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_33827.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_67357.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_88358.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_87563.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_40047.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_12889.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_07490.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_28226.npy",
     "label": 1,
     "species": "Corvus_splendens"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_58708.npy",
+    "spec": "real_dataset/spectrograms\\Black_Drongo_62037.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_63183.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_32725.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_30455.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_99145.npy",
+    "spec": "real_dataset/spectrograms\\Common_Myna_14919.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_45709.npy",
+    "spec": "real_dataset/spectrograms\\Black_Drongo_81598.npy",
     "label": 1,
-    "species": "Common_Myna"
+    "species": "Black_Drongo"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_12918.npy",
+    "spec": "real_dataset/spectrograms\\Black_Drongo_89935.npy",
     "label": 1,
-    "species": "Pycnonotus_cafer"
+    "species": "Black_Drongo"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_30419.npy",
+    "spec": "real_dataset/spectrograms\\Black_Drongo_95121.npy",
     "label": 1,
-    "species": "Common_Myna"
+    "species": "Black_Drongo"
   },
   {
-    "spec": "real_dataset/spectrograms\\noise_03817.npy",
+    "spec": "real_dataset/spectrograms\\noise_59964.npy",
     "label": 0,
     "species": "noise"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_88326.npy",
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_50702.npy",
     "label": 1,
-    "species": "Pycnonotus_cafer"
+    "species": "Rock_Pigeon"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_68819.npy",
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_16814.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_45999.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_80740.npy",
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_51308.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_35948.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_63397.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_71798.npy",
+    "spec": "real_dataset/spectrograms\\Common_Myna_74959.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_33469.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_59669.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_67052.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_86508.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_05013.npy",
     "label": 1,
     "species": "Pycnonotus_cafer"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_16231.npy",
+    "spec": "real_dataset/spectrograms\\Black_Drongo_95450.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_72554.npy",
     "label": 1,
     "species": "Pycnonotus_cafer"
   },
   {
-    "spec": "real_dataset/spectrograms\\noise_97564.npy",
+    "spec": "real_dataset/spectrograms\\Black_Drongo_73317.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_23133.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_19637.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_12657.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_86409.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_41393.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_24784.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_57508.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_27470.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_89739.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_02623.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_59669.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_14780.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_48916.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_42188.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_58816.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_17335.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_44692.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_34095.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_72557.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_77039.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_51887.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_24680.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_55615.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_45167.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_66919.npy",
     "label": 0,
     "species": "noise"
   },
   {
-    "spec": "real_dataset/spectrograms\\noise_82003.npy",
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_86750.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_34379.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_32903.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_96779.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_08422.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_58156.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_45417.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_93765.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_43846.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_11841.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_93098.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_70424.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_02343.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_90887.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_11583.npy",
     "label": 0,
     "species": "noise"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_45103.npy",
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_73782.npy",
     "label": 1,
-    "species": "Pycnonotus_cafer"
+    "species": "Greater_Coucal"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_85481.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_49338.npy",
+    "spec": "real_dataset/spectrograms\\Common_Myna_75278.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_11804.npy",
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_11832.npy",
     "label": 1,
-    "species": "Common_Myna"
+    "species": "Greater_Coucal"
   },
   {
-    "spec": "real_dataset/spectrograms\\noise_69618.npy",
+    "spec": "real_dataset/spectrograms\\noise_36273.npy",
     "label": 0,
     "species": "noise"
   },
   {
-    "spec": "real_dataset/spectrograms\\noise_38728.npy",
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_20473.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_35158.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_08661.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_33400.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_46415.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_13079.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_33315.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_87943.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_23703.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_42284.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_92796.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_54953.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_40330.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_24214.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_36990.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_23592.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_34054.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_01803.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_99768.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_12556.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_32365.npy",
     "label": 0,
     "species": "noise"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_79121.npy",
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_08707.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_37927.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_29679.npy",
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_59520.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_60349.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_84951.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_39697.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_80545.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_08918.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_29521.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_56391.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_69263.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_29622.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_53015.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_59969.npy",
     "label": 1,
     "species": "Pycnonotus_cafer"
   },
   {
-    "spec": "real_dataset/spectrograms\\noise_99648.npy",
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_98096.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_52865.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_69275.npy",
     "label": 0,
     "species": "noise"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_64175.npy",
+    "spec": "real_dataset/spectrograms\\Common_Myna_54342.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_62037.npy",
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_89968.npy",
     "label": 1,
-    "species": "Pycnonotus_cafer"
+    "species": "Ashy_Prinia"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_07354.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_63773.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_04386.npy",
+    "spec": "real_dataset/spectrograms\\Common_Myna_31126.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_86713.npy",
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_16990.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_89186.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_36465.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_41163.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_82230.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_15805.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_44472.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_59420.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_09114.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_90936.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_56038.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_35289.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_67394.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_55830.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_82050.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_11031.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_24137.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_21729.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_53877.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_16258.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_57770.npy",
     "label": 1,
     "species": "Pycnonotus_cafer"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_08038.npy",
+    "spec": "real_dataset/spectrograms\\Black_Drongo_53538.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_33240.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_22702.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_41375.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_61452.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_60282.npy",
     "label": 1,
     "species": "Pycnonotus_cafer"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_88247.npy",
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_64815.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_72357.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_61196.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_87532.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_08877.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_51387.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_97189.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_82034.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_58610.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_25638.npy",
     "label": 1,
     "species": "Pycnonotus_cafer"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_86828.npy",
+    "spec": "real_dataset/spectrograms\\Common_Myna_04334.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_25981.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_58644.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_61588.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_32922.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_21974.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_83663.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_09565.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_52721.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_45868.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_07453.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_90968.npy",
     "label": 1,
     "species": "Pycnonotus_cafer"
   },
   {
-    "spec": "real_dataset/spectrograms\\Corvus_splendens_63493.npy",
+    "spec": "real_dataset/spectrograms\\Common_Myna_61668.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_02240.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_44509.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_62906.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_63137.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_56241.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_12162.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_89223.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_10155.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_77405.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_03183.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_22214.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_22386.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_34161.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_75047.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_27720.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_15769.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_41671.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_08960.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_77356.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_84200.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_15595.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_07742.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_43687.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_52229.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_52518.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_55929.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_70847.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_42308.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_79073.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_55985.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_33720.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_53531.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_99550.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_40268.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_41839.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_99557.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_75869.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_37419.npy",
     "label": 1,
     "species": "Corvus_splendens"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_42989.npy",
+    "spec": "real_dataset/spectrograms\\House_Sparrow_95020.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_34188.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_62347.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_50811.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_27220.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_17485.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_87119.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_28907.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_70751.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_98373.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_13408.npy",
     "label": 1,
     "species": "Pycnonotus_cafer"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_64577.npy",
+    "spec": "real_dataset/spectrograms\\House_Sparrow_86841.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_10374.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_25316.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_91238.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_12345.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_46875.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_26564.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_33386.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\noise_25546.npy",
-    "label": 0,
-    "species": "noise"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_81653.npy",
+    "spec": "real_dataset/spectrograms\\Common_Myna_37907.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_70060.npy",
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_53764.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_13633.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_33583.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_09025.npy",
+    "spec": "real_dataset/spectrograms\\Common_Myna_47405.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Corvus_splendens_37117.npy",
+    "spec": "real_dataset/spectrograms\\House_Sparrow_54811.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_54514.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_82878.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_80980.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_66320.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_04217.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_37932.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_51235.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_85016.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_74761.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_42976.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_79412.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_80801.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_03730.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_68790.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_85510.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_80027.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_90964.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_17447.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_69444.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_21906.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_13532.npy",
     "label": 1,
     "species": "Corvus_splendens"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_56761.npy",
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_65298.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_55845.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_90992.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_22200.npy",
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_67178.npy",
     "label": 1,
     "species": "Pycnonotus_cafer"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_92694.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_58408.npy",
+    "spec": "real_dataset/spectrograms\\Common_Myna_25159.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_40522.npy",
+    "spec": "real_dataset/spectrograms\\House_Sparrow_01449.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_86668.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_39144.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_98476.npy",
     "label": 1,
     "species": "Pycnonotus_cafer"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_61627.npy",
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_24900.npy",
     "label": 1,
-    "species": "Common_Myna"
+    "species": "Greater_Coucal"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_86994.npy",
+    "spec": "real_dataset/spectrograms\\Black_Drongo_38321.npy",
     "label": 1,
-    "species": "Pycnonotus_cafer"
+    "species": "Black_Drongo"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_62769.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_66083.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_44635.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_60913.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_02384.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_05431.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\noise_87594.npy",
-    "label": 0,
-    "species": "noise"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Corvus_splendens_40840.npy",
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_86780.npy",
     "label": 1,
     "species": "Corvus_splendens"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_03699.npy",
+    "spec": "real_dataset/spectrograms\\House_Sparrow_59223.npy",
     "label": 1,
-    "species": "Common_Myna"
+    "species": "House_Sparrow"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_56887.npy",
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_04693.npy",
     "label": 1,
-    "species": "Common_Myna"
+    "species": "Rock_Pigeon"
   },
   {
-    "spec": "real_dataset/spectrograms\\Corvus_splendens_59859.npy",
-    "label": 1,
-    "species": "Corvus_splendens"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_22946.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_68196.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_88949.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_71355.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_63261.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_46828.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_94250.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_64143.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Corvus_splendens_02279.npy",
-    "label": 1,
-    "species": "Corvus_splendens"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_17695.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Corvus_splendens_22993.npy",
-    "label": 1,
-    "species": "Corvus_splendens"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Corvus_splendens_25426.npy",
-    "label": 1,
-    "species": "Corvus_splendens"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_52907.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_74465.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_57008.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_80501.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_13952.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_08668.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_29211.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_52990.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_19602.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_33874.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_46072.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_67341.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_55371.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_36168.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_39028.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_15511.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\noise_67608.npy",
+    "spec": "real_dataset/spectrograms\\noise_10911.npy",
     "label": 0,
     "species": "noise"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_45438.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_94981.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\noise_77502.npy",
-    "label": 0,
-    "species": "noise"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_24286.npy",
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_58474.npy",
     "label": 1,
     "species": "Pycnonotus_cafer"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_53562.npy",
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_65784.npy",
     "label": 1,
-    "species": "Pycnonotus_cafer"
+    "species": "Rock_Pigeon"
   },
   {
-    "spec": "real_dataset/spectrograms\\Corvus_splendens_27476.npy",
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_05420.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_55844.npy",
     "label": 1,
     "species": "Corvus_splendens"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_80337.npy",
+    "spec": "real_dataset/spectrograms\\Black_Drongo_49354.npy",
     "label": 1,
-    "species": "Pycnonotus_cafer"
+    "species": "Black_Drongo"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_11606.npy",
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_32785.npy",
     "label": 1,
-    "species": "Pycnonotus_cafer"
+    "species": "Greater_Coucal"
   },
   {
-    "spec": "real_dataset/spectrograms\\noise_93313.npy",
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_77217.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_61705.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_94324.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_83027.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_61230.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_38562.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_16608.npy",
     "label": 0,
     "species": "noise"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_43543.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_60189.npy",
-    "label": 1,
-    "species": "Pycnonotus_cafer"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_35854.npy",
+    "spec": "real_dataset/spectrograms\\Common_Myna_61273.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_85982.npy",
+    "spec": "real_dataset/spectrograms\\noise_10902.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_63159.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_87151.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_34194.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Corvus_splendens_20553.npy",
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_63129.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_04724.npy",
     "label": 1,
     "species": "Corvus_splendens"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_79313.npy",
+    "spec": "real_dataset/spectrograms\\House_Sparrow_67020.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_43826.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_41978.npy",
+    "spec": "real_dataset/spectrograms\\House_Sparrow_10648.npy",
     "label": 1,
-    "species": "Common_Myna"
+    "species": "House_Sparrow"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_08833.npy",
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_33706.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_81999.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_38448.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_95743.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_03629.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_32512.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_03142.npy",
     "label": 1,
     "species": "Pycnonotus_cafer"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_86317.npy",
+    "spec": "real_dataset/spectrograms\\Common_Myna_01910.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_19485.npy",
+    "spec": "real_dataset/spectrograms\\House_Sparrow_41752.npy",
     "label": 1,
-    "species": "Pycnonotus_cafer"
+    "species": "House_Sparrow"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_65674.npy",
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_18717.npy",
     "label": 1,
-    "species": "Pycnonotus_cafer"
+    "species": "Rock_Pigeon"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_28993.npy",
+    "spec": "real_dataset/spectrograms\\Common_Myna_46573.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Corvus_splendens_38463.npy",
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_71767.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_09370.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_51492.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_36319.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_26640.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_97645.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_66261.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_38957.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_45442.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_93044.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_33334.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_83025.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_99912.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_99106.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_13559.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_54944.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_48025.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_15903.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_24656.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_10979.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_46058.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_26695.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_12095.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_43960.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_24687.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_30032.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_51394.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_42244.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_20706.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_30670.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_81708.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_74882.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_16745.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_27274.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_24938.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_26763.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_05073.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_59639.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_23424.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_92098.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_96674.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_92954.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_02118.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_27230.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_66249.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_23904.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_89869.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_06926.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_91509.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_80829.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_36093.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_64317.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_79471.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_67213.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_54861.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_51244.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_92065.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_47871.npy",
     "label": 1,
     "species": "Corvus_splendens"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_30553.npy",
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_61931.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_59600.npy",
     "label": 1,
     "species": "Pycnonotus_cafer"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_45592.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_05448.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\noise_45164.npy",
+    "spec": "real_dataset/spectrograms\\noise_17008.npy",
     "label": 0,
     "species": "noise"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_53834.npy",
+    "spec": "real_dataset/spectrograms\\House_Sparrow_10029.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_16419.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_31841.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_50338.npy",
+    "spec": "real_dataset/spectrograms\\House_Sparrow_78039.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_66404.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_60756.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_15500.npy",
+    "spec": "real_dataset/spectrograms\\Common_Myna_85489.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_09599.npy",
+    "spec": "real_dataset/spectrograms\\Common_Myna_02029.npy",
     "label": 1,
-    "species": "Pycnonotus_cafer"
+    "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Corvus_splendens_14699.npy",
+    "spec": "real_dataset/spectrograms\\House_Sparrow_13735.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_11932.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_90940.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_64831.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_10565.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_81716.npy",
     "label": 1,
     "species": "Corvus_splendens"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_16438.npy",
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_08186.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_35195.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_36895.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_70870.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_99305.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_98321.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_60381.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_01359.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_96580.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\noise_73813.npy",
-    "label": 0,
-    "species": "noise"
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_64316.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_45665.npy",
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_15441.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_26718.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_96626.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_06432.npy",
+    "spec": "real_dataset/spectrograms\\House_Sparrow_64246.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_85085.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_02344.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_20473.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_46472.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_41049.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_50470.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_86287.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_43721.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\noise_08086.npy",
-    "label": 0,
-    "species": "noise"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Common_Myna_80832.npy",
+    "spec": "real_dataset/spectrograms\\Black_Drongo_96358.npy",
     "label": 1,
-    "species": "Common_Myna"
+    "species": "Black_Drongo"
   },
   {
-    "spec": "real_dataset/spectrograms\\Corvus_splendens_94098.npy",
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_03019.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_13387.npy",
     "label": 1,
     "species": "Corvus_splendens"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_45406.npy",
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_71227.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_76180.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_17225.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_33363.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_65524.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_00784.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_33231.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_43602.npy",
     "label": 1,
     "species": "Pycnonotus_cafer"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_19828.npy",
-    "label": 1,
-    "species": "Common_Myna"
-  },
-  {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_65843.npy",
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_04676.npy",
     "label": 1,
     "species": "Pycnonotus_cafer"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_22181.npy",
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_81177.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_15065.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_83919.npy",
     "label": 1,
     "species": "Common_Myna"
   },
   {
-    "spec": "real_dataset/spectrograms\\noise_86370.npy",
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_95894.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_67397.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_18551.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_82540.npy",
     "label": 0,
     "species": "noise"
   },
   {
-    "spec": "real_dataset/spectrograms\\noise_30083.npy",
+    "spec": "real_dataset/spectrograms\\noise_66760.npy",
     "label": 0,
     "species": "noise"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_41973.npy",
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_59246.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_43313.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_77679.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_26261.npy",
     "label": 1,
     "species": "Pycnonotus_cafer"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_89202.npy",
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_91976.npy",
     "label": 1,
-    "species": "Common_Myna"
+    "species": "Common_Tailorbird"
   },
   {
-    "spec": "real_dataset/spectrograms\\Common_Myna_85714.npy",
+    "spec": "real_dataset/spectrograms\\Black_Drongo_01992.npy",
     "label": 1,
-    "species": "Common_Myna"
+    "species": "Black_Drongo"
   },
   {
-    "spec": "real_dataset/spectrograms\\noise_40183.npy",
+    "spec": "real_dataset/spectrograms\\Black_Drongo_73685.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_98096.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_35795.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_32719.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_20324.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_18290.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_35228.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_94382.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_77584.npy",
     "label": 0,
     "species": "noise"
   },
   {
-    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_81374.npy",
+    "spec": "real_dataset/spectrograms\\Common_Myna_28505.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_91466.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_57743.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_04558.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_76986.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_96277.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_13166.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_52457.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_75683.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_54877.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_85639.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_30721.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_23963.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_33682.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_28233.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_66855.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_68077.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_43585.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_90319.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_10574.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_65990.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_03967.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_16018.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_80216.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_34653.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_89089.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_70164.npy",
     "label": 1,
     "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_70629.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_69314.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_99803.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_15118.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_00638.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_90807.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_40610.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_63311.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_14972.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_49366.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_92890.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_83948.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_36564.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_50668.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_46635.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_13672.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_79643.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_60573.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_79750.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_01935.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_74085.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_56715.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_14341.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_19682.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_69153.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_82827.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_68342.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_73704.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_22441.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Pycnonotus_cafer_04874.npy",
+    "label": 1,
+    "species": "Pycnonotus_cafer"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_05735.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\noise_58528.npy",
+    "label": 0,
+    "species": "noise"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_45479.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_93878.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_04069.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_70186.npy",
+    "label": 1,
+    "species": "Black_Drongo"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Greater_Coucal_89495.npy",
+    "label": 1,
+    "species": "Greater_Coucal"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_59562.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_37855.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_82342.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_42850.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_94718.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_50289.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_86039.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_15189.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_13382.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_41276.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_35689.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_76212.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_29963.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_09475.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Corvus_splendens_52528.npy",
+    "label": 1,
+    "species": "Corvus_splendens"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Ashy_Prinia_04422.npy",
+    "label": 1,
+    "species": "Ashy_Prinia"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_73868.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_11598.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_64737.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Rock_Pigeon_48841.npy",
+    "label": 1,
+    "species": "Rock_Pigeon"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_81165.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Tailorbird_70507.npy",
+    "label": 1,
+    "species": "Common_Tailorbird"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Common_Myna_09027.npy",
+    "label": 1,
+    "species": "Common_Myna"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\House_Sparrow_94296.npy",
+    "label": 1,
+    "species": "House_Sparrow"
+  },
+  {
+    "spec": "real_dataset/spectrograms\\Black_Drongo_39271.npy",
+    "label": 1,
+    "species": "Black_Drongo"
   }
 ]

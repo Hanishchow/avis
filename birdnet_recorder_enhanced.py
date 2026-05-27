@@ -9,43 +9,28 @@ from collections import deque
 
 import numpy as np
 
+from config import (
+    DEVICE_INDEX, SAMPLE_RATE, CHANNELS, WINDOW_DURATION,
+    HP_CUTOFF, LP_CUTOFF, DETECTION_THRESHOLD, SPEECH_PROB_THRESHOLD,
+    OUTPUT_DIR, LOG_FILE,
+)
 from filtering_pipeline import full_filter_pipeline, wiener_filter_multi_band
 from ensemble_inference import (
     EnsembleDetector,
     apply_detection_threshold,
     save_detection,
 )
-from silero_vad import load_silero_vad, get_speech_timestamps
+from vad import load_vad, get_speech_timestamps
+from logger import setup_logger
 
 
-# --- CONFIGURABLE CONSTANTS ---
-DEVICE_INDEX = 1
-SAMPLE_RATE = 44100
-CHANNELS = 2
-WINDOW_DURATION = 15  # seconds
-HIGH_PASS_CUTOFF = 300
-LOW_PASS_CUTOFF = 22000
-DETECTION_THRESHOLD = 0.35
-SPEECH_PROB_THRESHOLD = 0.4
-OUTPUT_DIR = "detections"
-LOG_FILE = "birdnet_enhanced.log"
-
-
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s",
-    handlers=[
-        logging.FileHandler(LOG_FILE, mode="a"),
-        logging.StreamHandler(),
-    ],
-)
+log = setup_logger()
 
 
 def check_speech_obscuration(audio, sr):
-    """Check if audio contains speech > threshold using silero-vad (requires 16kHz)."""
+    """Check if audio contains speech > threshold using VAD."""
     try:
-        vad_model = load_silero_vad()
-        # Resample to 16kHz if needed (silero-vad supports 8kHz and 16kHz only)
+        vad_model = load_vad()
         if sr != 16000:
             from scipy.signal import resample
             target_len = int(len(audio) * 16000 / sr)
@@ -59,34 +44,63 @@ def check_speech_obscuration(audio, sr):
         speech_ratio = total_speech / len(audio_16k) if len(audio_16k) > 0 else 0
         return speech_ratio > SPEECH_PROB_THRESHOLD, speech_ts
     except Exception as e:
-        logging.warning(f"VAD error: {e}")
+        log.warning(f"VAD error: {e}")
         return False, []
 
 
 def main():
-    logging.info("Starting Advanced Bioacoustic Bird Detection System")
-    logging.info(f"Config: sr={SAMPLE_RATE}, window={WINDOW_DURATION}s, threshold={DETECTION_THRESHOLD}")
+    log.info("Starting Advanced Bioacoustic Bird Detection System")
+    log.info(f"Config: sr={SAMPLE_RATE}, window={WINDOW_DURATION}s, threshold={DETECTION_THRESHOLD}")
 
     detector = EnsembleDetector()
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    # Initialize audio stream
+    # Initialize audio stream with auto-discovery
     import pyaudio
     p = pyaudio.PyAudio()
 
+    def _find_input_device(hostapi=None):
+        for i in range(p.get_device_count()):
+            info = p.get_device_info_by_index(i)
+            if info.get("maxInputChannels", 0) > 0:
+                if hostapi is None or info.get("hostApi") == hostapi:
+                    return i, info
+        return None, None
+
+    device_id = DEVICE_INDEX
     try:
-        stream = p.open(
-            format=pyaudio.paInt16,
-            channels=CHANNELS,
-            rate=SAMPLE_RATE,
-            input=True,
-            input_device_index=DEVICE_INDEX,
-            frames_per_buffer=8192,
-        )
-    except Exception as e:
-        logging.error(f"Audio stream init failed: {e}")
-        logging.info("Falling back to simulated audio for testing")
-        stream = None
+        info = p.get_device_info_by_index(device_id)
+        if info.get("maxInputChannels", 0) == 0:
+            raise ValueError(f"Device {device_id} has no input channels")
+    except Exception:
+        log.warning(f"Device index {device_id} unavailable, scanning for input devices...")
+        device_id, info = _find_input_device()
+        if device_id is not None:
+            log.info(f"Auto-discovered input device: {device_id} — {info.get('name', '?')}")
+        else:
+            device_id = None
+
+    stream = None
+    if device_id is not None:
+        try:
+            stream = p.open(
+                format=pyaudio.paInt16,
+                channels=CHANNELS,
+                rate=SAMPLE_RATE,
+                input=True,
+                input_device_index=device_id,
+                frames_per_buffer=8192,
+            )
+        except Exception as e:
+            log.warning(f"Audio stream init failed on device {device_id}: {e}")
+
+    if stream is None:
+        log.info("Falling back to simulated audio for testing")
+        # List available input devices for debugging
+        for i in range(p.get_device_count()):
+            info = p.get_device_info_by_index(i)
+            if info.get("maxInputChannels", 0) > 0:
+                log.info(f"  Available: device {i} — {info.get('name', '?')}")
 
     frame_buffer = deque(maxlen=int(SAMPLE_RATE / 8192 * WINDOW_DURATION))
     frames_per_window = int(SAMPLE_RATE / 8192 * WINDOW_DURATION)
@@ -95,7 +109,7 @@ def main():
     latency_history = deque(maxlen=100)
     window_start_time = time.time()
 
-    logging.info("Monitoring started. Press Ctrl+C to stop.")
+    log.info("Monitoring started. Press Ctrl+C to stop.")
     try:
         while True:
             if stream:
@@ -115,8 +129,8 @@ def main():
                 # 1. Apply noise filtering
                 filtered = full_filter_pipeline(
                     audio, fs=SAMPLE_RATE,
-                    hp_cutoff=HIGH_PASS_CUTOFF,
-                    lp_cutoff=LOW_PASS_CUTOFF,
+                    hp_cutoff=HP_CUTOFF,
+                    lp_cutoff=LP_CUTOFF,
                     stationary_wiener=True,
                 )
 
@@ -126,7 +140,7 @@ def main():
                 # 3. Check speech obscuration
                 is_speech, _ = check_speech_obscuration(filtered, SAMPLE_RATE)
                 if is_speech:
-                    logging.info(f"Speech detected ({timestamp}) - obscuring audio")
+                    log.info(f"Speech detected ({timestamp}) - obscuring audio")
                     continue
 
                 # 4. Apply detection threshold
@@ -137,28 +151,28 @@ def main():
                         species_name, timestamp,
                         output_dir=OUTPUT_DIR,
                     )
-                    logging.info(f"Detection: {species_name} ({confidence*100:.1f}%)")
+                    log.info(f"Detection: {species_name} ({confidence*100:.1f}%)")
                 else:
-                    logging.debug(f"No detection (confidence={confidence:.3f})")
+                    log.debug(f"No detection (confidence={confidence:.3f})")
 
                 # Clear buffer for next window
                 frame_buffer.clear()
 
                 elapsed = time.perf_counter() - loop_start
                 latency_history.append(elapsed)
-                logging.debug(f"Window processed in {elapsed*1000:.1f}ms")
+                log.debug(f"Window processed in {elapsed*1000:.1f}ms")
 
                 # Log latency stats every 10 windows
                 if len(latency_history) >= 10 and len(latency_history) % 10 == 0:
                     avg_latency = sum(latency_history) / len(latency_history)
                     max_latency = max(latency_history)
-                    logging.info(
+                    log.info(
                         f"Latency stats (last {len(latency_history)} windows): "
                         f"avg={avg_latency*1000:.1f}ms, max={max_latency*1000:.1f}ms, "
                         f"window_size={WINDOW_DURATION}s"
                     )
                     if avg_latency > WINDOW_DURATION:
-                        logging.warning(
+                        log.warning(
                             f"Average latency ({avg_latency*1000:.1f}ms) exceeds "
                             f"window duration ({WINDOW_DURATION}s)! Increase WINDOW_DURATION "
                             f"or optimize filters."
@@ -167,11 +181,11 @@ def main():
                 # Track uptime
                 uptime = time.time() - window_start_time
                 if uptime >= 3600:
-                    logging.info("1-hour stability milestone reached.")
+                    log.info("1-hour stability milestone reached.")
                     window_start_time = time.time()
 
     except KeyboardInterrupt:
-        logging.info("Monitoring stopped by user.")
+        log.info("Monitoring stopped by user.")
     finally:
         if stream:
             stream.stop_stream()

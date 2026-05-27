@@ -4,16 +4,19 @@ import os
 import numpy as np
 from feature_extraction import extract_mel_spectrogram
 from fallback_model import load_fallback
+from config import CNN_MODEL_PATH, SAMPLE_RATE
 
 
 class BirdDetector:
     """Loads model and provides inference for bird detection."""
 
-    def __init__(self, model_path="bird_sound_classifier.h5"):
+    def __init__(self, model_path=None):
         self.model = load_fallback()
-        self.model_path = model_path
+        self.model_path = model_path if model_path is not None else CNN_MODEL_PATH
 
-    def predict(self, audio, sr=44100):
+    def predict(self, audio, sr=None):
+        if sr is None:
+            sr = SAMPLE_RATE
         """Run inference on audio array.
         
         Returns:
@@ -26,7 +29,7 @@ class BirdDetector:
 
         spec = spec[np.newaxis, ..., np.newaxis]
         pred = self.model.predict(spec, verbose=0)
-        bird_prob = float(pred[0][0]) if pred.shape[-1] >= 2 else 0.5
+        bird_prob = float(pred[0][1]) if pred.shape[-1] >= 2 else 0.5
         logits = pred[0]
         return bird_prob, logits
 
@@ -40,7 +43,7 @@ class BirdDetector:
 if __name__ == "__main__":
     import librosa
     detector = BirdDetector()
-    audio, sr = librosa.load("test_bird.wav", sr=44100, mono=True)
+    audio, sr = librosa.load("test_bird.wav", sr=SAMPLE_RATE, mono=True)
     bird_prob, logits = detector.predict(audio, sr)
     print(f"Bird probability: {bird_prob:.3f}")
     print(f"Logits: {logits}")

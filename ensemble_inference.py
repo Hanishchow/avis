@@ -4,16 +4,17 @@ import os
 import numpy as np
 from birdnet_integration import BirdNETProcessor
 from model_inference import BirdDetector
+from config import MLP_MODEL_PATH, DETECTION_THRESHOLD, OUTPUT_DIR, N_MELS
 
 
 class EnsembleDetector:
     """Combines BirdNET and custom NN outputs using confidence stacking MLP."""
 
-    def __init__(self, mlp_path="mlp_stacker.h5"):
+    def __init__(self, mlp_path=None):
+        self.mlp_path = mlp_path if mlp_path is not None else MLP_MODEL_PATH
         self.birdnet = BirdNETProcessor()
         self.nn_detector = BirdDetector()
         self.mlp = None
-        self.mlp_path = mlp_path
         self._load_mlp()
 
     def _load_mlp(self):
@@ -36,10 +37,14 @@ class EnsembleDetector:
 
     def _fallback_combine(self, birdnet_logits, nn_bird_prob):
         """Weighted average fallback when MLP not available."""
+        from config import BIRDNET_WEIGHT, NN_WEIGHT
         birdnet_conf = birdnet_logits[0] if len(birdnet_logits) > 0 else 0.0
-        return 0.7 * birdnet_conf + 0.3 * nn_bird_prob
+        return BIRDNET_WEIGHT * birdnet_conf + NN_WEIGHT * nn_bird_prob
 
-    def detect(self, audio, sr=44100):
+    def detect(self, audio, sr=None):
+        if sr is None:
+            from config import SAMPLE_RATE
+            sr = SAMPLE_RATE
         """Run ensemble detection on audio array.
         
         Returns:
@@ -50,7 +55,8 @@ class EnsembleDetector:
         nn_bird_prob, nn_logits = self.nn_detector.predict(audio, sr)
         temp_path = "_ensemble_temp.wav"
         import scipy.io.wavfile as wav
-        wav.write(temp_path, sr, (audio * 32767).astype(np.int16))
+        from config import NORMALIZE_TARGET_MAX
+        wav.write(temp_path, sr, (audio * NORMALIZE_TARGET_MAX).astype(np.int16))
         detections = self.birdnet.analyze_file(temp_path)
         if os.path.exists(temp_path):
             os.remove(temp_path)
@@ -60,21 +66,25 @@ class EnsembleDetector:
         return combined, species, detections
 
 
-def apply_detection_threshold(confidence, threshold=0.35):
+def apply_detection_threshold(confidence, threshold=None):
     """Return True if confidence exceeds threshold."""
+    if threshold is None:
+        threshold = DETECTION_THRESHOLD
     return confidence >= threshold
 
 
-def save_detection(audio, sr, species, timestamp, output_dir="detections",
+def save_detection(audio, sr, species, timestamp, output_dir=None,
                    generate_spectrogram=False):
+    if output_dir is None:
+        output_dir = OUTPUT_DIR
     """Save detected audio as WAV with species name and timestamp."""
     os.makedirs(output_dir, exist_ok=True)
     species_str = species.replace(" ", "_") if species else "unknown"
     filename = f"{species_str}_{timestamp}.wav"
     filepath = os.path.join(output_dir, filename)
     import scipy.io.wavfile as wav
-    wav.write(filepath, sr, (audio * 32767).astype(np.int16))
-    print(f"Saved: {filepath}")
+    from config import NORMALIZE_TARGET_MAX
+    wav.write(filepath, sr, (audio * NORMALIZE_TARGET_MAX).astype(np.int16))
     if generate_spectrogram:
         _save_spectrogram(audio, sr, filepath.replace(".wav", ".png"))
     return filepath
@@ -86,7 +96,7 @@ def _save_spectrogram(audio, sr, output_path):
     matplotlib.use("Agg")
     import matplotlib.pyplot as plt
     import librosa.display
-    S = librosa.feature.melspectrogram(y=audio.astype(np.float32), sr=sr, n_mels=128)
+    S = librosa.feature.melspectrogram(y=audio.astype(np.float32), sr=sr, n_mels=N_MELS)
     S_db = librosa.power_to_db(S, ref=np.max)
     plt.figure(figsize=(10, 4))
     librosa.display.specshow(S_db, sr=sr, x_axis="time", y_axis="mel")

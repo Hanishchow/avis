@@ -1,0 +1,33 @@
+version: "3.9"
+
+services:
+  recorder:
+    build: .
+    container_name: birdnet-recorder
+    command: python -u birdnet_recorder_enhanced.py
+    volumes:
+      - ./detections:/app/detections
+      - ./logs:/app/logs
+      - ./birdnet_enhanced.log:/app/birdnet_enhanced.log
+      - ./detection_log.json:/app/detection_log.json
+    devices:
+      # Linux: pass through microphone
+      - "/dev/snd:/dev/snd"
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+
+  dashboard:
+    build: .
+    container_name: birdnet-dashboard
+    command: python -u dashboard.py
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./detections:/app/detections
+      - ./logs:/app/logs
+      - ./birdnet_enhanced.log:/app/birdnet_enhanced.log
+      - ./detection_log.json:/app/detection_log.json
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped

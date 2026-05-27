@@ -1,0 +1,3327 @@
+{
+  "nodes": {
+    "latin": {
+      "name": "Latin",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "fraternity": {
+      "name": "Fraternity",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "the western": {
+      "name": "The Western",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "christian": {
+      "name": "Christian",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "catholic church": {
+      "name": "Catholic Church",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "middle ages": {
+      "name": "Middle Ages",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "freemasons": {
+      "name": "Freemasons",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "rosicrucian society": {
+      "name": "Rosicrucian Society",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "england": {
+      "name": "England",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "odd fellows": {
+      "name": "Odd Fellows",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "members": {
+      "name": "Members",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "today": {
+      "name": "Today",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "knights": {
+      "name": "Knights",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "columbus": {
+      "name": "Columbus",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "freemasonry": {
+      "name": "Freemasonry",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "although": {
+      "name": "Although",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "north america": {
+      "name": "North America",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "notable": {
+      "name": "Notable",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "brotherhood": {
+      "name": "brotherhood",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 2
+    },
+    "frater": {
+      "name": "Frater",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "brother": {
+      "name": "Brother",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "whence": {
+      "name": "Whence",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "fraternal": {
+      "name": "Fraternal",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "organization": {
+      "name": "Organization",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "society": {
+      "name": "Society",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "traditionally": {
+      "name": "Traditionally",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "associated": {
+      "name": "Associated",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "together": {
+      "name": "Together",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "various": {
+      "name": "Various",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "religious": {
+      "name": "Religious",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "secular": {
+      "name": "Secular",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "western": {
+      "name": "Western",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "concept": {
+      "name": "Concept",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "fraternities": {
+      "name": "Fraternities",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "developed": {
+      "name": "Developed",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "context": {
+      "name": "Context",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "notably": {
+      "name": "Notably",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "orders": {
+      "name": "Orders",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "catholic": {
+      "name": "Catholic",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "church": {
+      "name": "Church",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "middle": {
+      "name": "Middle",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "eventually": {
+      "name": "Eventually",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "extended": {
+      "name": "Extended",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "medieval": {
+      "name": "Medieval",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "confraternities": {
+      "name": "Confraternities",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "guilds": {
+      "name": "Guilds",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "modern": {
+      "name": "Modern",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "followed": {
+      "name": "Followed",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "rosicrucian": {
+      "name": "Rosicrucian",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "fellows": {
+      "name": "Fellows",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "gentlemen": {
+      "name": "Gentlemen",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "student": {
+      "name": "Student",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "service": {
+      "name": "Service",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "organizations": {
+      "name": "Organizations",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "regardless": {
+      "name": "Regardless",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "gender": {
+      "name": "Gender",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "occasionally": {
+      "name": "Occasionally",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "referred": {
+      "name": "Referred",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "usually": {
+      "name": "Usually",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "connotations": {
+      "name": "Connotations",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "according": {
+      "name": "According",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "including": {
+      "name": "Including",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779694423.809032,
+      "reference_count": 2
+    },
+    "companionships": {
+      "name": "Companionships",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "brotherhoods": {
+      "name": "Brotherhoods",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "dedicated": {
+      "name": "Dedicated",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "intellectual": {
+      "name": "Intellectual",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "academic": {
+      "name": "Academic",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "physical": {
+      "name": "Physical",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "social": {
+      "name": "Social",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "pursuits": {
+      "name": "Pursuits",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "sometimes": {
+      "name": "Sometimes",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "connotes": {
+      "name": "Connotes",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "secret": {
+      "name": "Secret",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "especially": {
+      "name": "Especially",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "regarding": {
+      "name": "Regarding",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "societies": {
+      "name": "Societies",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1085567,
+      "last_seen": 1779683046.1085567,
+      "reference_count": 1
+    },
+    "membership": {
+      "name": "Membership",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1095593,
+      "last_seen": 1779683046.1095593,
+      "reference_count": 1
+    },
+    "mostly": {
+      "name": "Mostly",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1095593,
+      "last_seen": 1779683046.1095593,
+      "reference_count": 1
+    },
+    "limited": {
+      "name": "Limited",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1095593,
+      "last_seen": 1779683046.1095593,
+      "reference_count": 1
+    },
+    "always": {
+      "name": "Always",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1095593,
+      "last_seen": 1779683046.1095593,
+      "reference_count": 1
+    },
+    "female": {
+      "name": "Female",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1095593,
+      "last_seen": 1779683046.1095593,
+      "reference_count": 1
+    },
+    "wholly": {
+      "name": "Wholly",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1095593,
+      "last_seen": 1779683046.1095593,
+      "reference_count": 1
+    },
+    "sororities": {
+      "name": "Sororities",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1095593,
+      "last_seen": 1779683046.1095593,
+      "reference_count": 1
+    },
+    "america": {
+      "name": "America",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1095593,
+      "last_seen": 1779694423.808033,
+      "reference_count": 2
+    },
+    "include": {
+      "name": "Include",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1095593,
+      "last_seen": 1779683046.1095593,
+      "reference_count": 1
+    },
+    "lodges": {
+      "name": "Lodges",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1095593,
+      "last_seen": 1779683046.1095593,
+      "reference_count": 1
+    },
+    "operating": {
+      "name": "Operating",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683046.1095593,
+      "last_seen": 1779683046.1095593,
+      "reference_count": 1
+    },
+    "yourself": {
+      "name": "Yourself",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683069.9173021,
+      "last_seen": 1779694423.810029,
+      "reference_count": 2
+    },
+    "user input": {
+      "name": "User Input",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779683069.9173021,
+      "last_seen": 1779683069.9173021,
+      "reference_count": 1
+    },
+    "python": {
+      "name": "Python",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779685769.1682875,
+      "last_seen": 1779685804.0880795,
+      "reference_count": 2
+    },
+    "korean": {
+      "name": "Korean",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "bts": {
+      "name": "BTS",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "bangtan": {
+      "name": "Bangtan",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "bulletproof boy scouts": {
+      "name": "Bulletproof Boy Scouts",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "bangtan boys": {
+      "name": "Bangtan Boys",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "south korean": {
+      "name": "South Korean",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "jin": {
+      "name": "Jin",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "suga": {
+      "name": "Suga",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "hope": {
+      "name": "Hope",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "jimin": {
+      "name": "Jimin",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "jung kook": {
+      "name": "Jung Kook",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "originally": {
+      "name": "Originally",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "their": {
+      "name": "Their",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "big hit entertainment": {
+      "name": "Big Hit Entertainment",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "cool": {
+      "name": "Cool",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "skool": {
+      "name": "Skool",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "japanese": {
+      "name": "Japanese",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "dark": {
+      "name": "Dark",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "wild": {
+      "name": "Wild",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "wake up": {
+      "name": "Wake Up",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "wings": {
+      "name": "Wings",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "south korea": {
+      "name": "South Korea",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "korean wave": {
+      "name": "Korean Wave",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "united states": {
+      "name": "United States",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "gold": {
+      "name": "Gold",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "recording industry association": {
+      "name": "Recording Industry Association",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "mic drop": {
+      "name": "Mic Drop",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "billboard": {
+      "name": "Billboard",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "love yourself": {
+      "name": "Love Yourself",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "tear": {
+      "name": "Tear",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "beatles": {
+      "name": "Beatles",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "answer": {
+      "name": "Answer",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "platinum": {
+      "name": "Platinum",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "billboard hot": {
+      "name": "Billboard Hot",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "billboard global": {
+      "name": "Billboard Global",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "grammy": {
+      "name": "Grammy",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "dynamite": {
+      "name": "Dynamite",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "follow": {
+      "name": "Follow",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "savage love": {
+      "name": "Savage Love",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "life goes on": {
+      "name": "Life Goes On",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "butter": {
+      "name": "Butter",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "permission": {
+      "name": "Permission",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "dance": {
+      "name": "Dance",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "my universe": {
+      "name": "My Universe",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "permission to dance": {
+      "name": "Permission to Dance",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "rr": {
+      "name": "RR",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "rm": {
+      "name": "RM",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "riaa": {
+      "name": "RIAA",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.808033,
+      "last_seen": 1779694423.808033,
+      "reference_count": 1
+    },
+    "us": {
+      "name": "US",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "sonyeondan": {
+      "name": "Sonyeondan",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "bulletproof": {
+      "name": "Bulletproof",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "scouts": {
+      "name": "Scouts",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "formed": {
+      "name": "Formed",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "consists": {
+      "name": "Consists",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "produce": {
+      "name": "Produce",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "material": {
+      "name": "Material",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "expanded": {
+      "name": "Expanded",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "musical": {
+      "name": "Musical",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "incorporate": {
+      "name": "Incorporate",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "genres": {
+      "name": "Genres",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "lyrics": {
+      "name": "Lyrics",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "focused": {
+      "name": "Focused",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "subjects": {
+      "name": "Subjects",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "mental": {
+      "name": "Mental",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "health": {
+      "name": "Health",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "troubles": {
+      "name": "Troubles",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "school": {
+      "name": "School",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "coming": {
+      "name": "Coming",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "journey": {
+      "name": "Journey",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "towards": {
+      "name": "Towards",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "individualism": {
+      "name": "Individualism",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "consequences": {
+      "name": "Consequences",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "recognition": {
+      "name": "Recognition",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "discography": {
+      "name": "Discography",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "adjacent": {
+      "name": "Adjacent",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "referenced": {
+      "name": "Referenced",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "literature": {
+      "name": "Literature",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "philosophy": {
+      "name": "Philosophy",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "psychology": {
+      "name": "Psychology",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "includes": {
+      "name": "Includes",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "alternate": {
+      "name": "Alternate",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "universe": {
+      "name": "Universe",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "storyline": {
+      "name": "Storyline",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "debuted": {
+      "name": "Debuted",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "entertainment": {
+      "name": "Entertainment",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "single": {
+      "name": "Single",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "released": {
+      "name": "Released",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "language": {
+      "name": "Language",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "studio": {
+      "name": "Studio",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "albums": {
+      "name": "Albums",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "respectively": {
+      "name": "Respectively",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "second": {
+      "name": "Second",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "million": {
+      "name": "Million",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "copies": {
+      "name": "Copies",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "crossed": {
+      "name": "Crossed",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "global": {
+      "name": "Global",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "market": {
+      "name": "Market",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "united": {
+      "name": "United",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "states": {
+      "name": "States",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "becoming": {
+      "name": "Becoming",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "ensemble": {
+      "name": "Ensemble",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.809032,
+      "last_seen": 1779694423.809032,
+      "reference_count": 1
+    },
+    "receive": {
+      "name": "Receive",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.810029,
+      "last_seen": 1779694423.810029,
+      "reference_count": 1
+    },
+    "certification": {
+      "name": "Certification",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.810029,
+      "last_seen": 1779694423.810029,
+      "reference_count": 1
+    },
+    "recording": {
+      "name": "Recording",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.810029,
+      "last_seen": 1779694423.810029,
+      "reference_count": 1
+    },
+    "industry": {
+      "name": "Industry",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.810029,
+      "last_seen": 1779694423.810029,
+      "reference_count": 1
+    },
+    "association": {
+      "name": "Association",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.810029,
+      "last_seen": 1779694423.810029,
+      "reference_count": 1
+    },
+    "became": {
+      "name": "Became",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.810029,
+      "last_seen": 1779694423.810029,
+      "reference_count": 1
+    },
+    "fastest": {
+      "name": "Fastest",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.810029,
+      "last_seen": 1779694423.810029,
+      "reference_count": 1
+    },
+    "number": {
+      "name": "Number",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.810029,
+      "last_seen": 1779694423.810029,
+      "reference_count": 1
+    },
+    "certified": {
+      "name": "Certified",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.810029,
+      "last_seen": 1779694423.810029,
+      "reference_count": 1
+    },
+    "nominated": {
+      "name": "Nominated",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.810029,
+      "last_seen": 1779694423.810029,
+      "reference_count": 1
+    },
+    "releases": {
+      "name": "Releases",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.810029,
+      "last_seen": 1779694423.810029,
+      "reference_count": 1
+    },
+    "savage": {
+      "name": "Savage",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.810029,
+      "last_seen": 1779694423.810029,
+      "reference_count": 1
+    },
+    "singles": {
+      "name": "Singles",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694423.810029,
+      "last_seen": 1779694423.810029,
+      "reference_count": 1
+    },
+    "aishwarya": {
+      "name": "Aishwarya",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694464.3128932,
+      "last_seen": 1779694480.80159,
+      "reference_count": 2
+    },
+    "charity": {
+      "name": "Charity",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779694480.80159,
+      "last_seen": 1779694480.80159,
+      "reference_count": 1
+    },
+    "maybe": {
+      "name": "Maybe",
+      "aliases": [],
+      "notes": "",
+      "first_seen": 1779893165.0631447,
+      "last_seen": 1779893165.0631447,
+      "reference_count": 1
+    }
+  },
+  "edges": [
+    {
+      "source": "fraternity",
+      "target": "latin",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "the western",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "christian",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "catholic church",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "middle ages",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "freemasons",
+      "link_type": "related",
+      "weight": 0.8999999999999999,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "rosicrucian society",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "england",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "odd fellows",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "members",
+      "link_type": "related",
+      "weight": 0.8999999999999999,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "today",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "knights",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "columbus",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "freemasonry",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "although",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "north america",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "notable",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "brotherhood",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "frater",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "brother",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "whence",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "fraternal",
+      "link_type": "related",
+      "weight": 1.0,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "organization",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "society",
+      "link_type": "related",
+      "weight": 0.8999999999999999,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "traditionally",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "associated",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "together",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "various",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "religious",
+      "link_type": "related",
+      "weight": 1.0,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "secular",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "western",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "concept",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "fraternities",
+      "link_type": "related",
+      "weight": 1.0,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "developed",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "context",
+      "link_type": "related",
+      "weight": 0.8999999999999999,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "notably",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "orders",
+      "link_type": "related",
+      "weight": 1.0,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "catholic",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "church",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "middle",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "eventually",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "extended",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "medieval",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "confraternities",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "guilds",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "modern",
+      "link_type": "related",
+      "weight": 0.8999999999999999,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "followed",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "rosicrucian",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "fellows",
+      "link_type": "related",
+      "weight": 0.8999999999999999,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "gentlemen",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "student",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "service",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "organizations",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "regardless",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "gender",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "occasionally",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "referred",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "usually",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "connotations",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "according",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "including",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "companionships",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "brotherhoods",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "dedicated",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "intellectual",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "academic",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "physical",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "social",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "pursuits",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "sometimes",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "connotes",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "secret",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "especially",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "regarding",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "societies",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779683046.1085567,
+      "last_updated": 1779683046.1085567
+    },
+    {
+      "source": "fraternity",
+      "target": "membership",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1095593,
+      "last_updated": 1779683046.1095593
+    },
+    {
+      "source": "fraternity",
+      "target": "mostly",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1095593,
+      "last_updated": 1779683046.1095593
+    },
+    {
+      "source": "fraternity",
+      "target": "limited",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1095593,
+      "last_updated": 1779683046.1095593
+    },
+    {
+      "source": "fraternity",
+      "target": "always",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1095593,
+      "last_updated": 1779683046.1095593
+    },
+    {
+      "source": "fraternity",
+      "target": "female",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779683046.1095593,
+      "last_updated": 1779683046.1095593
+    },
+    {
+      "source": "fraternity",
+      "target": "wholly",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1095593,
+      "last_updated": 1779683046.1095593
+    },
+    {
+      "source": "fraternity",
+      "target": "sororities",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1095593,
+      "last_updated": 1779683046.1095593
+    },
+    {
+      "source": "fraternity",
+      "target": "america",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1095593,
+      "last_updated": 1779683046.1095593
+    },
+    {
+      "source": "fraternity",
+      "target": "include",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1095593,
+      "last_updated": 1779683046.1095593
+    },
+    {
+      "source": "fraternity",
+      "target": "lodges",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1095593,
+      "last_updated": 1779683046.1095593
+    },
+    {
+      "source": "fraternity",
+      "target": "operating",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683046.1095593,
+      "last_updated": 1779683046.1095593
+    },
+    {
+      "source": "user input",
+      "target": "yourself",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779683069.9173021,
+      "last_updated": 1779683069.9173021
+    },
+    {
+      "source": "user input",
+      "target": "python",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779685769.1682875,
+      "last_updated": 1779685804.0880795
+    },
+    {
+      "source": "bts",
+      "target": "korean",
+      "link_type": "related",
+      "weight": 1.0,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "bangtan",
+      "link_type": "related",
+      "weight": 0.8999999999999999,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "bulletproof boy scouts",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "bangtan boys",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "south korean",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "jin",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "suga",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "hope",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "jimin",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "jung kook",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "originally",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "their",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "big hit entertainment",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "cool",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "skool",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "japanese",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "dark",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "wild",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "wake up",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "wings",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "south korea",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "korean wave",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "united states",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "gold",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "recording industry association",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "america",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "mic drop",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "billboard",
+      "link_type": "related",
+      "weight": 1.0,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "love yourself",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "tear",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "beatles",
+      "link_type": "related",
+      "weight": 1.0,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "answer",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "platinum",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "billboard hot",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "billboard global",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "grammy",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "dynamite",
+      "link_type": "related",
+      "weight": 0.8999999999999999,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "follow",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "savage love",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "life goes on",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "butter",
+      "link_type": "related",
+      "weight": 0.8999999999999999,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "permission",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "dance",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "my universe",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "permission to dance",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "rr",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "rm",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "riaa",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.808033,
+      "last_updated": 1779694423.808033
+    },
+    {
+      "source": "bts",
+      "target": "us",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "sonyeondan",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "bulletproof",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "scouts",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "formed",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "consists",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "produce",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "material",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "expanded",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "musical",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "incorporate",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "genres",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "lyrics",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "focused",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "subjects",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "including",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "mental",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "health",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "troubles",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "school",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "coming",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "journey",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "towards",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "individualism",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "consequences",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "recognition",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "discography",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "adjacent",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "referenced",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "literature",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "philosophy",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "psychology",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "includes",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "alternate",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "universe",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "storyline",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "debuted",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "entertainment",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "single",
+      "link_type": "related",
+      "weight": 0.8999999999999999,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "released",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "language",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "studio",
+      "link_type": "related",
+      "weight": 0.8999999999999999,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "albums",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "respectively",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "second",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "million",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "copies",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "crossed",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "global",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "market",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "united",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "states",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "becoming",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.809032,
+      "last_updated": 1779694423.809032
+    },
+    {
+      "source": "bts",
+      "target": "ensemble",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.810029,
+      "last_updated": 1779694423.810029
+    },
+    {
+      "source": "bts",
+      "target": "receive",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.810029,
+      "last_updated": 1779694423.810029
+    },
+    {
+      "source": "bts",
+      "target": "certification",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.810029,
+      "last_updated": 1779694423.810029
+    },
+    {
+      "source": "bts",
+      "target": "recording",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.810029,
+      "last_updated": 1779694423.810029
+    },
+    {
+      "source": "bts",
+      "target": "industry",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.810029,
+      "last_updated": 1779694423.810029
+    },
+    {
+      "source": "bts",
+      "target": "association",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.810029,
+      "last_updated": 1779694423.810029
+    },
+    {
+      "source": "bts",
+      "target": "yourself",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.810029,
+      "last_updated": 1779694423.810029
+    },
+    {
+      "source": "bts",
+      "target": "became",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.810029,
+      "last_updated": 1779694423.810029
+    },
+    {
+      "source": "bts",
+      "target": "fastest",
+      "link_type": "related",
+      "weight": 0.6,
+      "created": 1779694423.810029,
+      "last_updated": 1779694423.810029
+    },
+    {
+      "source": "bts",
+      "target": "number",
+      "link_type": "related",
+      "weight": 0.8999999999999999,
+      "created": 1779694423.810029,
+      "last_updated": 1779694423.810029
+    },
+    {
+      "source": "bts",
+      "target": "certified",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.810029,
+      "last_updated": 1779694423.810029
+    },
+    {
+      "source": "bts",
+      "target": "nominated",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.810029,
+      "last_updated": 1779694423.810029
+    },
+    {
+      "source": "bts",
+      "target": "releases",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.810029,
+      "last_updated": 1779694423.810029
+    },
+    {
+      "source": "bts",
+      "target": "savage",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.810029,
+      "last_updated": 1779694423.810029
+    },
+    {
+      "source": "bts",
+      "target": "singles",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694423.810029,
+      "last_updated": 1779694423.810029
+    },
+    {
+      "source": "user input",
+      "target": "aishwarya",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694464.3128932,
+      "last_updated": 1779694480.80159
+    },
+    {
+      "source": "user input",
+      "target": "charity",
+      "link_type": "related",
+      "weight": 0.3,
+      "created": 1779694480.80159,
+      "last_updated": 1779694480.80159
+    },
+    {
+      "source": "charity",
+      "target": "yourself",
+      "link_type": "dreamt_together",
+      "weight": 0.5,
+      "created": 1779892951.8250716,
+      "last_updated": 1779892951.8250716
+    },
+    {
+      "source": "yourself",
+      "target": "maybe",
+      "link_type": "dreamt_exploration",
+      "weight": 0.3,
+      "created": 1779893165.0631447,
+      "last_updated": 1779893165.0631447
+    }
+  ],
+  "updated": 1779893167.9868407
+}

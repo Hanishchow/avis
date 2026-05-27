@@ -2,9 +2,12 @@
 
 import tensorflow as tf
 from tensorflow import keras
+from config import SPEC_H, SPEC_W
 
 
-def build_cnn(input_shape=(128, 259), num_classes=2):
+def build_cnn(input_shape=None, num_classes=2):
+    if input_shape is None:
+        input_shape = (SPEC_H, SPEC_W)
     """Build a CNN model for bird detection.
     
     Args:
@@ -44,8 +47,7 @@ def build_cnn(input_shape=(128, 259), num_classes=2):
 if __name__ == "__main__":
     model = build_cnn()
     model.summary()
-    # Test with random input
     import numpy as np
-    test_input = np.random.randn(1, 128, 259, 1)
+    test_input = np.random.randn(1, SPEC_H, SPEC_W, 1)
     output = model.predict(test_input)
     print(f"Test output shape: {output.shape}, values: {output[0]}")

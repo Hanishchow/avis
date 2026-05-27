@@ -18,6 +18,7 @@ _seg_*.wav
 _test_seg.wav
 _mlp_temp.wav
 tmp/
+logs/
 *.log
 
 # IDE
@@ -53,3 +54,9 @@ real_dataset/spectrograms/
 # OS
 Thumbs.db
 .DS_Store
+
+# Secrets
+.hf_token
+
+# Checkpoints (too large for git)
+checkpoints/
