@@ -34,6 +34,8 @@ logs/
 # Unrelated projects
 New folder/
 cellure-ai/
+mini_llm/
+osiris/
 
 # Real dataset audio (large)
 real_dataset/audio/
